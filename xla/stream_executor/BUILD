@@ -365,6 +365,7 @@ cc_library(
         ":device_address_allocator",
         ":memory_allocation",
         ":memory_reservation",
+        ":memory_space",
         ":platform",
         ":stream",
         ":stream_executor_h",
